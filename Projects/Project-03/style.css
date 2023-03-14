@@ -26,3 +26,8 @@ polygon{
 	stroke: orange;
 	stroke-width: .25;
 }
+
+polyline{
+	stroke: pink;
+	stroke-width: 1;
+}
